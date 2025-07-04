@@ -1,2 +1,0 @@
-this is a branch and its name is Testing
-this is a branch and its name is Production
